@@ -117,15 +117,7 @@ flutter run
 
 ---
 
-## 📸 Screenshots
 
-| Splash | Home | Doctor Details |
-|--------|------|-----------------|
-| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
-
-> Screenshots are not included in the current repository snapshot. Replace the placeholders above with actual captures from `flutter run` or `flutter screenshot`.
-
----
 
 ## 🔭 Future Improvements
 
